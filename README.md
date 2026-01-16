@@ -1,2 +1,2 @@
-Acesse: https://laraandrafa.onrender.com/
+Acesse: https://laraandrafa.vercel.app/
 ---
